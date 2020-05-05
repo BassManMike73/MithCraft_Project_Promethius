@@ -1,0 +1,10 @@
+
+.DS_Store
+ops.json
+usercache.json
+whitelist.json
+minecraft_server.1.12.2.jar
+*.log
+eula.txt
+banned-ips.json
+banned-players.json
