@@ -8,3 +8,4 @@ minecraft_server.1.12.2.jar
 eula.txt
 banned-ips.json
 banned-players.json
+logs/*
